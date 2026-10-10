@@ -1,0 +1,1 @@
+"""AuraDesktop application package."""
